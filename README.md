@@ -5,5 +5,4 @@ twrp_android_device_samsung_d2q
 manifest
 https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-9.0
 
-Kernel source:
-https://github.com/mentalmuso/android_kernel_samsung_sd855
+Many thanks to mentalmuso@xda-developers.com for his device tree!
